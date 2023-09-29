@@ -12,7 +12,20 @@ Automatic Short Answerw Grading framework for Italian Workplace Security Courses
 
 ## Citing our work
 
-If you use this code, please cite the following paper:
+You can read our paper <a href="https://www.mdpi.com/1999-5903/15/8/268">here</a>.</br>
+If you use this code, please cite us:
 
-<strong>Real-world Implementation and Integration of an Automatic Scoring System for Workplace Safety Courses in Italian</strong> <br />
-Nicola Arici, Alfonso E. Gerevini, Matteo Olivato, Luca Putelli, Luca Sigalini, and Ivan Serina
+```bib
+@article{asag_it_ws,
+  author = {Arici, Nicola and Gerevini, Alfonso Emilio and Olivato, Matteo and Putelli, Luca and Sigalini, Luca and Serina, Ivan},
+  title = {Real-World Implementation and Integration of an Automatic Scoring System for Workplace Safety Courses in Italian},
+  journal = {Future Internet},
+  volume = {15},
+  year = {2023},
+  number = {8},
+  article-number = {268},
+  url = {https://www.mdpi.com/1999-5903/15/8/268},
+  issn = {1999-5903},
+  doi = {10.3390/fi15080268}
+}
+```
